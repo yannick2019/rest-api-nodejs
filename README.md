@@ -1,1 +1,1 @@
-# Goalsetter app
+# Goalsetter Rest API
